@@ -38,17 +38,4 @@ Building interfaces → Engineering frontend systems.
 
 ---
 
-## 📂 Project Structure
 
-frontend-engineering-portfolio/
-│
-├── ai-dashboard/
-├── realtime-analytics-app/
-├── payment-saas-ui/
-├── multi-step-auth-system/
-├── advanced-form-builder/
-├── performance-optimized-ui/
-│
-├── architecture/
-├── notes/
-└── README.md
